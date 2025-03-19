@@ -1,0 +1,23 @@
+body {
+    background-color: #261210;
+    color: #BFA393;
+  }
+  .navbar-custom {
+    background-color: #590212;
+  }
+  .btn-custom {
+    background-color: #A6032F;
+    color: #BFA393;
+  }
+  .btn-custom:hover {
+    background-color: #8C031C;
+    color: #BFA393;
+  }
+  .card-custom {
+    background-color: #590212;
+    border: none;
+  }
+  .footer-custom {
+    background-color: #590212;
+    color: #BFA393;
+  }
